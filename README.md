@@ -51,5 +51,5 @@ at <http://localhost:8080>.
 
 This project contains a Makefile, which defines targets corresponding to
 the `mvn` commands shown in the above examples. If you have the `make`
-utility installed on your machine, you can run `make worker` or
+utility installed on your machine, you can run `make worker` and
 `make run` as an alternative to running the commands in steps 2 and 3.
