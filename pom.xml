@@ -5,9 +5,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xml:space="preserve">
   <modelVersion>4.0.0</modelVersion>
 
-  <name>Money Transfer Project</name>
+  <name>E-Commerce Project</name>
   <groupId>io.temporal</groupId>
-  <artifactId>moneytransfer</artifactId>
+  <artifactId>ecommerce</artifactId>
   <version>1.0.0</version>
 
   <!--

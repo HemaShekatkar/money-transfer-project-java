@@ -1,4 +1,4 @@
-# Money transfer project: Java
+# E-commerce project: Java
 
 Learn how the pieces of a Temporal application work together.
 Follow the [Run your first app tutorial](https://docs.temporal.io/docs/java/run-your-first-app-tutorial)
